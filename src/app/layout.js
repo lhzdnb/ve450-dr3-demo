@@ -4,8 +4,8 @@ import './globals.css';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'Recharts Next.js',
-  description: 'An example of using Recharts with Next.js',
+  title: 'Data Visualizaton Demo',
+  description: 'Data Visualization Demo for VE450 DR3',
 };
 
 export default function RootLayout({ children }) {

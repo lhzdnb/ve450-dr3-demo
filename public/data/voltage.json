@@ -1,0 +1,302 @@
+[
+  {
+    "time": "2023-09-30T16:00:00.000Z",
+    "actualVoltage": "412.18 V",
+    "predictedVoltage": "403.27 V"
+  },
+  {
+    "time": "2023-09-30T16:01:00.000Z",
+    "actualVoltage": "406.25 V",
+    "predictedVoltage": "417.48 V"
+  },
+  {
+    "time": "2023-09-30T16:02:00.000Z",
+    "actualVoltage": "413.42 V",
+    "predictedVoltage": "418.71 V"
+  },
+  {
+    "time": "2023-09-30T16:03:00.000Z",
+    "actualVoltage": "418.00 V",
+    "predictedVoltage": "423.82 V"
+  },
+  {
+    "time": "2023-09-30T16:04:00.000Z",
+    "actualVoltage": "436.93 V",
+    "predictedVoltage": "429.21 V"
+  },
+  {
+    "time": "2023-09-30T16:05:00.000Z",
+    "actualVoltage": "424.20 V",
+    "predictedVoltage": "429.01 V"
+  },
+  {
+    "time": "2023-09-30T16:06:00.000Z",
+    "actualVoltage": "444.32 V",
+    "predictedVoltage": "433.82 V"
+  },
+  {
+    "time": "2023-09-30T16:07:00.000Z",
+    "actualVoltage": "440.50 V",
+    "predictedVoltage": "433.34 V"
+  },
+  {
+    "time": "2023-09-30T16:08:00.000Z",
+    "actualVoltage": "440.06 V",
+    "predictedVoltage": "440.12 V"
+  },
+  {
+    "time": "2023-09-30T16:09:00.000Z",
+    "actualVoltage": "446.65 V",
+    "predictedVoltage": "450.91 V"
+  },
+  {
+    "time": "2023-09-30T16:10:00.000Z",
+    "actualVoltage": "461.15 V",
+    "predictedVoltage": "449.17 V"
+  },
+  {
+    "time": "2023-09-30T16:11:00.000Z",
+    "actualVoltage": "460.16 V",
+    "predictedVoltage": "458.83 V"
+  },
+  {
+    "time": "2023-09-30T16:12:00.000Z",
+    "actualVoltage": "462.79 V",
+    "predictedVoltage": "450.32 V"
+  },
+  {
+    "time": "2023-09-30T16:13:00.000Z",
+    "actualVoltage": "463.07 V",
+    "predictedVoltage": "453.70 V"
+  },
+  {
+    "time": "2023-09-30T16:14:00.000Z",
+    "actualVoltage": "466.84 V",
+    "predictedVoltage": "463.38 V"
+  },
+  {
+    "time": "2023-09-30T16:15:00.000Z",
+    "actualVoltage": "460.27 V",
+    "predictedVoltage": "463.74 V"
+  },
+  {
+    "time": "2023-09-30T16:16:00.000Z",
+    "actualVoltage": "464.17 V",
+    "predictedVoltage": "458.62 V"
+  },
+  {
+    "time": "2023-09-30T16:17:00.000Z",
+    "actualVoltage": "466.93 V",
+    "predictedVoltage": "460.79 V"
+  },
+  {
+    "time": "2023-09-30T16:18:00.000Z",
+    "actualVoltage": "452.42 V",
+    "predictedVoltage": "452.11 V"
+  },
+  {
+    "time": "2023-09-30T16:19:00.000Z",
+    "actualVoltage": "458.60 V",
+    "predictedVoltage": "462.25 V"
+  },
+  {
+    "time": "2023-09-30T16:20:00.000Z",
+    "actualVoltage": "455.08 V",
+    "predictedVoltage": "447.24 V"
+  },
+  {
+    "time": "2023-09-30T16:21:00.000Z",
+    "actualVoltage": "445.69 V",
+    "predictedVoltage": "444.63 V"
+  },
+  {
+    "time": "2023-09-30T16:22:00.000Z",
+    "actualVoltage": "444.15 V",
+    "predictedVoltage": "446.91 V"
+  },
+  {
+    "time": "2023-09-30T16:23:00.000Z",
+    "actualVoltage": "451.46 V",
+    "predictedVoltage": "439.06 V"
+  },
+  {
+    "time": "2023-09-30T16:24:00.000Z",
+    "actualVoltage": "439.55 V",
+    "predictedVoltage": "446.15 V"
+  },
+  {
+    "time": "2023-09-30T16:25:00.000Z",
+    "actualVoltage": "433.23 V",
+    "predictedVoltage": "436.22 V"
+  },
+  {
+    "time": "2023-09-30T16:26:00.000Z",
+    "actualVoltage": "443.79 V",
+    "predictedVoltage": "429.06 V"
+  },
+  {
+    "time": "2023-09-30T16:27:00.000Z",
+    "actualVoltage": "428.16 V",
+    "predictedVoltage": "423.03 V"
+  },
+  {
+    "time": "2023-09-30T16:28:00.000Z",
+    "actualVoltage": "424.29 V",
+    "predictedVoltage": "418.38 V"
+  },
+  {
+    "time": "2023-09-30T16:29:00.000Z",
+    "actualVoltage": "413.88 V",
+    "predictedVoltage": "418.36 V"
+  },
+  {
+    "time": "2023-09-30T16:30:00.000Z",
+    "actualVoltage": "418.08 V",
+    "predictedVoltage": "411.04 V"
+  },
+  {
+    "time": "2023-09-30T16:31:00.000Z",
+    "actualVoltage": "410.88 V",
+    "predictedVoltage": "414.56 V"
+  },
+  {
+    "time": "2023-09-30T16:32:00.000Z",
+    "actualVoltage": "415.29 V",
+    "predictedVoltage": "402.18 V"
+  },
+  {
+    "time": "2023-09-30T16:33:00.000Z",
+    "actualVoltage": "398.22 V",
+    "predictedVoltage": "392.93 V"
+  },
+  {
+    "time": "2023-09-30T16:34:00.000Z",
+    "actualVoltage": "390.53 V",
+    "predictedVoltage": "393.40 V"
+  },
+  {
+    "time": "2023-09-30T16:35:00.000Z",
+    "actualVoltage": "390.54 V",
+    "predictedVoltage": "388.73 V"
+  },
+  {
+    "time": "2023-09-30T16:36:00.000Z",
+    "actualVoltage": "395.47 V",
+    "predictedVoltage": "383.58 V"
+  },
+  {
+    "time": "2023-09-30T16:37:00.000Z",
+    "actualVoltage": "376.72 V",
+    "predictedVoltage": "388.30 V"
+  },
+  {
+    "time": "2023-09-30T16:38:00.000Z",
+    "actualVoltage": "384.04 V",
+    "predictedVoltage": "374.61 V"
+  },
+  {
+    "time": "2023-09-30T16:39:00.000Z",
+    "actualVoltage": "383.93 V",
+    "predictedVoltage": "368.31 V"
+  },
+  {
+    "time": "2023-09-30T16:40:00.000Z",
+    "actualVoltage": "373.01 V",
+    "predictedVoltage": "370.72 V"
+  },
+  {
+    "time": "2023-09-30T16:41:00.000Z",
+    "actualVoltage": "360.57 V",
+    "predictedVoltage": "362.55 V"
+  },
+  {
+    "time": "2023-09-30T16:42:00.000Z",
+    "actualVoltage": "366.76 V",
+    "predictedVoltage": "366.89 V"
+  },
+  {
+    "time": "2023-09-30T16:43:00.000Z",
+    "actualVoltage": "362.29 V",
+    "predictedVoltage": "360.76 V"
+  },
+  {
+    "time": "2023-09-30T16:44:00.000Z",
+    "actualVoltage": "358.29 V",
+    "predictedVoltage": "362.35 V"
+  },
+  {
+    "time": "2023-09-30T16:45:00.000Z",
+    "actualVoltage": "353.68 V",
+    "predictedVoltage": "366.01 V"
+  },
+  {
+    "time": "2023-09-30T16:46:00.000Z",
+    "actualVoltage": "354.65 V",
+    "predictedVoltage": "355.26 V"
+  },
+  {
+    "time": "2023-09-30T16:47:00.000Z",
+    "actualVoltage": "366.04 V",
+    "predictedVoltage": "355.03 V"
+  },
+  {
+    "time": "2023-09-30T16:48:00.000Z",
+    "actualVoltage": "364.19 V",
+    "predictedVoltage": "358.14 V"
+  },
+  {
+    "time": "2023-09-30T16:49:00.000Z",
+    "actualVoltage": "366.84 V",
+    "predictedVoltage": "352.52 V"
+  },
+  {
+    "time": "2023-09-30T16:50:00.000Z",
+    "actualVoltage": "366.80 V",
+    "predictedVoltage": "366.25 V"
+  },
+  {
+    "time": "2023-09-30T16:51:00.000Z",
+    "actualVoltage": "359.37 V",
+    "predictedVoltage": "356.73 V"
+  },
+  {
+    "time": "2023-09-30T16:52:00.000Z",
+    "actualVoltage": "357.29 V",
+    "predictedVoltage": "369.39 V"
+  },
+  {
+    "time": "2023-09-30T16:53:00.000Z",
+    "actualVoltage": "368.35 V",
+    "predictedVoltage": "372.53 V"
+  },
+  {
+    "time": "2023-09-30T16:54:00.000Z",
+    "actualVoltage": "368.52 V",
+    "predictedVoltage": "363.90 V"
+  },
+  {
+    "time": "2023-09-30T16:55:00.000Z",
+    "actualVoltage": "365.74 V",
+    "predictedVoltage": "366.22 V"
+  },
+  {
+    "time": "2023-09-30T16:56:00.000Z",
+    "actualVoltage": "375.13 V",
+    "predictedVoltage": "380.72 V"
+  },
+  {
+    "time": "2023-09-30T16:57:00.000Z",
+    "actualVoltage": "373.30 V",
+    "predictedVoltage": "377.38 V"
+  },
+  {
+    "time": "2023-09-30T16:58:00.000Z",
+    "actualVoltage": "380.30 V",
+    "predictedVoltage": "387.32 V"
+  },
+  {
+    "time": "2023-09-30T16:59:00.000Z",
+    "actualVoltage": "382.10 V",
+    "predictedVoltage": "383.59 V"
+  }
+]

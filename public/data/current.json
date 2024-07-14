@@ -1,0 +1,302 @@
+[
+  {
+    "time": "2023-09-30T16:00:00.000Z",
+    "actualCurrent": "209.35 A",
+    "predictedCurrent": "209.83 A"
+  },
+  {
+    "time": "2023-09-30T16:01:00.000Z",
+    "actualCurrent": "224.54 A",
+    "predictedCurrent": "219.24 A"
+  },
+  {
+    "time": "2023-09-30T16:02:00.000Z",
+    "actualCurrent": "210.91 A",
+    "predictedCurrent": "214.89 A"
+  },
+  {
+    "time": "2023-09-30T16:03:00.000Z",
+    "actualCurrent": "218.02 A",
+    "predictedCurrent": "216.40 A"
+  },
+  {
+    "time": "2023-09-30T16:04:00.000Z",
+    "actualCurrent": "220.97 A",
+    "predictedCurrent": "230.79 A"
+  },
+  {
+    "time": "2023-09-30T16:05:00.000Z",
+    "actualCurrent": "226.73 A",
+    "predictedCurrent": "229.24 A"
+  },
+  {
+    "time": "2023-09-30T16:06:00.000Z",
+    "actualCurrent": "245.76 A",
+    "predictedCurrent": "237.45 A"
+  },
+  {
+    "time": "2023-09-30T16:07:00.000Z",
+    "actualCurrent": "235.31 A",
+    "predictedCurrent": "234.79 A"
+  },
+  {
+    "time": "2023-09-30T16:08:00.000Z",
+    "actualCurrent": "245.61 A",
+    "predictedCurrent": "250.56 A"
+  },
+  {
+    "time": "2023-09-30T16:09:00.000Z",
+    "actualCurrent": "242.64 A",
+    "predictedCurrent": "239.78 A"
+  },
+  {
+    "time": "2023-09-30T16:10:00.000Z",
+    "actualCurrent": "261.04 A",
+    "predictedCurrent": "247.49 A"
+  },
+  {
+    "time": "2023-09-30T16:11:00.000Z",
+    "actualCurrent": "262.52 A",
+    "predictedCurrent": "245.09 A"
+  },
+  {
+    "time": "2023-09-30T16:12:00.000Z",
+    "actualCurrent": "265.15 A",
+    "predictedCurrent": "258.51 A"
+  },
+  {
+    "time": "2023-09-30T16:13:00.000Z",
+    "actualCurrent": "253.69 A",
+    "predictedCurrent": "253.83 A"
+  },
+  {
+    "time": "2023-09-30T16:14:00.000Z",
+    "actualCurrent": "260.69 A",
+    "predictedCurrent": "253.46 A"
+  },
+  {
+    "time": "2023-09-30T16:15:00.000Z",
+    "actualCurrent": "269.26 A",
+    "predictedCurrent": "262.19 A"
+  },
+  {
+    "time": "2023-09-30T16:16:00.000Z",
+    "actualCurrent": "261.35 A",
+    "predictedCurrent": "254.29 A"
+  },
+  {
+    "time": "2023-09-30T16:17:00.000Z",
+    "actualCurrent": "251.57 A",
+    "predictedCurrent": "252.32 A"
+  },
+  {
+    "time": "2023-09-30T16:18:00.000Z",
+    "actualCurrent": "257.25 A",
+    "predictedCurrent": "262.61 A"
+  },
+  {
+    "time": "2023-09-30T16:19:00.000Z",
+    "actualCurrent": "247.75 A",
+    "predictedCurrent": "252.18 A"
+  },
+  {
+    "time": "2023-09-30T16:20:00.000Z",
+    "actualCurrent": "259.35 A",
+    "predictedCurrent": "248.76 A"
+  },
+  {
+    "time": "2023-09-30T16:21:00.000Z",
+    "actualCurrent": "254.23 A",
+    "predictedCurrent": "245.94 A"
+  },
+  {
+    "time": "2023-09-30T16:22:00.000Z",
+    "actualCurrent": "257.65 A",
+    "predictedCurrent": "254.63 A"
+  },
+  {
+    "time": "2023-09-30T16:23:00.000Z",
+    "actualCurrent": "244.28 A",
+    "predictedCurrent": "243.33 A"
+  },
+  {
+    "time": "2023-09-30T16:24:00.000Z",
+    "actualCurrent": "253.19 A",
+    "predictedCurrent": "234.35 A"
+  },
+  {
+    "time": "2023-09-30T16:25:00.000Z",
+    "actualCurrent": "234.39 A",
+    "predictedCurrent": "232.51 A"
+  },
+  {
+    "time": "2023-09-30T16:26:00.000Z",
+    "actualCurrent": "238.19 A",
+    "predictedCurrent": "239.45 A"
+  },
+  {
+    "time": "2023-09-30T16:27:00.000Z",
+    "actualCurrent": "226.02 A",
+    "predictedCurrent": "224.55 A"
+  },
+  {
+    "time": "2023-09-30T16:28:00.000Z",
+    "actualCurrent": "227.89 A",
+    "predictedCurrent": "222.07 A"
+  },
+  {
+    "time": "2023-09-30T16:29:00.000Z",
+    "actualCurrent": "221.13 A",
+    "predictedCurrent": "220.56 A"
+  },
+  {
+    "time": "2023-09-30T16:30:00.000Z",
+    "actualCurrent": "217.77 A",
+    "predictedCurrent": "220.07 A"
+  },
+  {
+    "time": "2023-09-30T16:31:00.000Z",
+    "actualCurrent": "203.84 A",
+    "predictedCurrent": "210.57 A"
+  },
+  {
+    "time": "2023-09-30T16:32:00.000Z",
+    "actualCurrent": "205.16 A",
+    "predictedCurrent": "209.96 A"
+  },
+  {
+    "time": "2023-09-30T16:33:00.000Z",
+    "actualCurrent": "194.41 A",
+    "predictedCurrent": "198.37 A"
+  },
+  {
+    "time": "2023-09-30T16:34:00.000Z",
+    "actualCurrent": "199.25 A",
+    "predictedCurrent": "198.59 A"
+  },
+  {
+    "time": "2023-09-30T16:35:00.000Z",
+    "actualCurrent": "191.68 A",
+    "predictedCurrent": "187.63 A"
+  },
+  {
+    "time": "2023-09-30T16:36:00.000Z",
+    "actualCurrent": "192.81 A",
+    "predictedCurrent": "179.69 A"
+  },
+  {
+    "time": "2023-09-30T16:37:00.000Z",
+    "actualCurrent": "190.08 A",
+    "predictedCurrent": "186.06 A"
+  },
+  {
+    "time": "2023-09-30T16:38:00.000Z",
+    "actualCurrent": "188.25 A",
+    "predictedCurrent": "175.61 A"
+  },
+  {
+    "time": "2023-09-30T16:39:00.000Z",
+    "actualCurrent": "178.55 A",
+    "predictedCurrent": "170.51 A"
+  },
+  {
+    "time": "2023-09-30T16:40:00.000Z",
+    "actualCurrent": "171.26 A",
+    "predictedCurrent": "168.86 A"
+  },
+  {
+    "time": "2023-09-30T16:41:00.000Z",
+    "actualCurrent": "171.12 A",
+    "predictedCurrent": "161.75 A"
+  },
+  {
+    "time": "2023-09-30T16:42:00.000Z",
+    "actualCurrent": "157.07 A",
+    "predictedCurrent": "160.11 A"
+  },
+  {
+    "time": "2023-09-30T16:43:00.000Z",
+    "actualCurrent": "162.19 A",
+    "predictedCurrent": "163.59 A"
+  },
+  {
+    "time": "2023-09-30T16:44:00.000Z",
+    "actualCurrent": "167.08 A",
+    "predictedCurrent": "157.92 A"
+  },
+  {
+    "time": "2023-09-30T16:45:00.000Z",
+    "actualCurrent": "169.04 A",
+    "predictedCurrent": "161.77 A"
+  },
+  {
+    "time": "2023-09-30T16:46:00.000Z",
+    "actualCurrent": "167.59 A",
+    "predictedCurrent": "164.11 A"
+  },
+  {
+    "time": "2023-09-30T16:47:00.000Z",
+    "actualCurrent": "168.40 A",
+    "predictedCurrent": "163.79 A"
+  },
+  {
+    "time": "2023-09-30T16:48:00.000Z",
+    "actualCurrent": "167.37 A",
+    "predictedCurrent": "153.72 A"
+  },
+  {
+    "time": "2023-09-30T16:49:00.000Z",
+    "actualCurrent": "161.33 A",
+    "predictedCurrent": "154.38 A"
+  },
+  {
+    "time": "2023-09-30T16:50:00.000Z",
+    "actualCurrent": "158.43 A",
+    "predictedCurrent": "164.09 A"
+  },
+  {
+    "time": "2023-09-30T16:51:00.000Z",
+    "actualCurrent": "171.44 A",
+    "predictedCurrent": "160.67 A"
+  },
+  {
+    "time": "2023-09-30T16:52:00.000Z",
+    "actualCurrent": "165.01 A",
+    "predictedCurrent": "167.92 A"
+  },
+  {
+    "time": "2023-09-30T16:53:00.000Z",
+    "actualCurrent": "159.85 A",
+    "predictedCurrent": "167.25 A"
+  },
+  {
+    "time": "2023-09-30T16:54:00.000Z",
+    "actualCurrent": "164.90 A",
+    "predictedCurrent": "174.12 A"
+  },
+  {
+    "time": "2023-09-30T16:55:00.000Z",
+    "actualCurrent": "177.21 A",
+    "predictedCurrent": "179.57 A"
+  },
+  {
+    "time": "2023-09-30T16:56:00.000Z",
+    "actualCurrent": "171.09 A",
+    "predictedCurrent": "170.81 A"
+  },
+  {
+    "time": "2023-09-30T16:57:00.000Z",
+    "actualCurrent": "191.84 A",
+    "predictedCurrent": "186.64 A"
+  },
+  {
+    "time": "2023-09-30T16:58:00.000Z",
+    "actualCurrent": "183.73 A",
+    "predictedCurrent": "186.21 A"
+  },
+  {
+    "time": "2023-09-30T16:59:00.000Z",
+    "actualCurrent": "199.20 A",
+    "predictedCurrent": "183.24 A"
+  }
+]

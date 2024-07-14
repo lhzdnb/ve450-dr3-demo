@@ -1,0 +1,302 @@
+[
+  {
+    "time": "2023-09-30T16:00:00.000Z",
+    "actualTemperature": "21.23",
+    "predictedTemperature": "21.06"
+  },
+  {
+    "time": "2023-09-30T16:01:00.000Z",
+    "actualTemperature": "21.81",
+    "predictedTemperature": "21.35"
+  },
+  {
+    "time": "2023-09-30T16:02:00.000Z",
+    "actualTemperature": "22.34",
+    "predictedTemperature": "21.70"
+  },
+  {
+    "time": "2023-09-30T16:03:00.000Z",
+    "actualTemperature": "23.48",
+    "predictedTemperature": "22.11"
+  },
+  {
+    "time": "2023-09-30T16:04:00.000Z",
+    "actualTemperature": "22.46",
+    "predictedTemperature": "21.95"
+  },
+  {
+    "time": "2023-09-30T16:05:00.000Z",
+    "actualTemperature": "23.04",
+    "predictedTemperature": "22.66"
+  },
+  {
+    "time": "2023-09-30T16:06:00.000Z",
+    "actualTemperature": "23.36",
+    "predictedTemperature": "23.01"
+  },
+  {
+    "time": "2023-09-30T16:07:00.000Z",
+    "actualTemperature": "23.65",
+    "predictedTemperature": "23.70"
+  },
+  {
+    "time": "2023-09-30T16:08:00.000Z",
+    "actualTemperature": "24.62",
+    "predictedTemperature": "23.78"
+  },
+  {
+    "time": "2023-09-30T16:09:00.000Z",
+    "actualTemperature": "25.75",
+    "predictedTemperature": "25.38"
+  },
+  {
+    "time": "2023-09-30T16:10:00.000Z",
+    "actualTemperature": "25.68",
+    "predictedTemperature": "25.38"
+  },
+  {
+    "time": "2023-09-30T16:11:00.000Z",
+    "actualTemperature": "26.18",
+    "predictedTemperature": "25.75"
+  },
+  {
+    "time": "2023-09-30T16:12:00.000Z",
+    "actualTemperature": "25.86",
+    "predictedTemperature": "25.64"
+  },
+  {
+    "time": "2023-09-30T16:13:00.000Z",
+    "actualTemperature": "26.77",
+    "predictedTemperature": "26.20"
+  },
+  {
+    "time": "2023-09-30T16:14:00.000Z",
+    "actualTemperature": "25.26",
+    "predictedTemperature": "26.23"
+  },
+  {
+    "time": "2023-09-30T16:15:00.000Z",
+    "actualTemperature": "26.12",
+    "predictedTemperature": "26.38"
+  },
+  {
+    "time": "2023-09-30T16:16:00.000Z",
+    "actualTemperature": "26.07",
+    "predictedTemperature": "26.37"
+  },
+  {
+    "time": "2023-09-30T16:17:00.000Z",
+    "actualTemperature": "26.65",
+    "predictedTemperature": "25.88"
+  },
+  {
+    "time": "2023-09-30T16:18:00.000Z",
+    "actualTemperature": "25.78",
+    "predictedTemperature": "26.10"
+  },
+  {
+    "time": "2023-09-30T16:19:00.000Z",
+    "actualTemperature": "25.12",
+    "predictedTemperature": "25.03"
+  },
+  {
+    "time": "2023-09-30T16:20:00.000Z",
+    "actualTemperature": "25.36",
+    "predictedTemperature": "24.79"
+  },
+  {
+    "time": "2023-09-30T16:21:00.000Z",
+    "actualTemperature": "26.17",
+    "predictedTemperature": "25.74"
+  },
+  {
+    "time": "2023-09-30T16:22:00.000Z",
+    "actualTemperature": "24.38",
+    "predictedTemperature": "24.51"
+  },
+  {
+    "time": "2023-09-30T16:23:00.000Z",
+    "actualTemperature": "24.84",
+    "predictedTemperature": "24.65"
+  },
+  {
+    "time": "2023-09-30T16:24:00.000Z",
+    "actualTemperature": "24.88",
+    "predictedTemperature": "23.51"
+  },
+  {
+    "time": "2023-09-30T16:25:00.000Z",
+    "actualTemperature": "24.29",
+    "predictedTemperature": "23.62"
+  },
+  {
+    "time": "2023-09-30T16:26:00.000Z",
+    "actualTemperature": "23.41",
+    "predictedTemperature": "23.11"
+  },
+  {
+    "time": "2023-09-30T16:27:00.000Z",
+    "actualTemperature": "23.81",
+    "predictedTemperature": "22.61"
+  },
+  {
+    "time": "2023-09-30T16:28:00.000Z",
+    "actualTemperature": "23.36",
+    "predictedTemperature": "22.28"
+  },
+  {
+    "time": "2023-09-30T16:29:00.000Z",
+    "actualTemperature": "23.06",
+    "predictedTemperature": "21.43"
+  },
+  {
+    "time": "2023-09-30T16:30:00.000Z",
+    "actualTemperature": "21.50",
+    "predictedTemperature": "21.67"
+  },
+  {
+    "time": "2023-09-30T16:31:00.000Z",
+    "actualTemperature": "21.25",
+    "predictedTemperature": "20.69"
+  },
+  {
+    "time": "2023-09-30T16:32:00.000Z",
+    "actualTemperature": "19.99",
+    "predictedTemperature": "21.12"
+  },
+  {
+    "time": "2023-09-30T16:33:00.000Z",
+    "actualTemperature": "20.15",
+    "predictedTemperature": "19.43"
+  },
+  {
+    "time": "2023-09-30T16:34:00.000Z",
+    "actualTemperature": "18.74",
+    "predictedTemperature": "19.62"
+  },
+  {
+    "time": "2023-09-30T16:35:00.000Z",
+    "actualTemperature": "18.96",
+    "predictedTemperature": "19.52"
+  },
+  {
+    "time": "2023-09-30T16:36:00.000Z",
+    "actualTemperature": "18.04",
+    "predictedTemperature": "18.53"
+  },
+  {
+    "time": "2023-09-30T16:37:00.000Z",
+    "actualTemperature": "19.24",
+    "predictedTemperature": "18.77"
+  },
+  {
+    "time": "2023-09-30T16:38:00.000Z",
+    "actualTemperature": "17.37",
+    "predictedTemperature": "18.11"
+  },
+  {
+    "time": "2023-09-30T16:39:00.000Z",
+    "actualTemperature": "17.99",
+    "predictedTemperature": "17.24"
+  },
+  {
+    "time": "2023-09-30T16:40:00.000Z",
+    "actualTemperature": "16.33",
+    "predictedTemperature": "17.68"
+  },
+  {
+    "time": "2023-09-30T16:41:00.000Z",
+    "actualTemperature": "16.32",
+    "predictedTemperature": "16.71"
+  },
+  {
+    "time": "2023-09-30T16:42:00.000Z",
+    "actualTemperature": "15.98",
+    "predictedTemperature": "16.54"
+  },
+  {
+    "time": "2023-09-30T16:43:00.000Z",
+    "actualTemperature": "16.93",
+    "predictedTemperature": "16.20"
+  },
+  {
+    "time": "2023-09-30T16:44:00.000Z",
+    "actualTemperature": "16.26",
+    "predictedTemperature": "15.85"
+  },
+  {
+    "time": "2023-09-30T16:45:00.000Z",
+    "actualTemperature": "16.80",
+    "predictedTemperature": "15.44"
+  },
+  {
+    "time": "2023-09-30T16:46:00.000Z",
+    "actualTemperature": "15.59",
+    "predictedTemperature": "16.08"
+  },
+  {
+    "time": "2023-09-30T16:47:00.000Z",
+    "actualTemperature": "16.74",
+    "predictedTemperature": "16.27"
+  },
+  {
+    "time": "2023-09-30T16:48:00.000Z",
+    "actualTemperature": "15.85",
+    "predictedTemperature": "15.24"
+  },
+  {
+    "time": "2023-09-30T16:49:00.000Z",
+    "actualTemperature": "15.36",
+    "predictedTemperature": "15.95"
+  },
+  {
+    "time": "2023-09-30T16:50:00.000Z",
+    "actualTemperature": "16.15",
+    "predictedTemperature": "15.65"
+  },
+  {
+    "time": "2023-09-30T16:51:00.000Z",
+    "actualTemperature": "16.98",
+    "predictedTemperature": "15.64"
+  },
+  {
+    "time": "2023-09-30T16:52:00.000Z",
+    "actualTemperature": "16.66",
+    "predictedTemperature": "15.92"
+  },
+  {
+    "time": "2023-09-30T16:53:00.000Z",
+    "actualTemperature": "17.25",
+    "predictedTemperature": "16.81"
+  },
+  {
+    "time": "2023-09-30T16:54:00.000Z",
+    "actualTemperature": "17.92",
+    "predictedTemperature": "16.73"
+  },
+  {
+    "time": "2023-09-30T16:55:00.000Z",
+    "actualTemperature": "17.12",
+    "predictedTemperature": "17.28"
+  },
+  {
+    "time": "2023-09-30T16:56:00.000Z",
+    "actualTemperature": "17.70",
+    "predictedTemperature": "17.21"
+  },
+  {
+    "time": "2023-09-30T16:57:00.000Z",
+    "actualTemperature": "17.34",
+    "predictedTemperature": "18.74"
+  },
+  {
+    "time": "2023-09-30T16:58:00.000Z",
+    "actualTemperature": "18.82",
+    "predictedTemperature": "18.55"
+  },
+  {
+    "time": "2023-09-30T16:59:00.000Z",
+    "actualTemperature": "19.14",
+    "predictedTemperature": "18.64"
+  }
+]
