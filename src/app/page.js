@@ -37,7 +37,12 @@ export default function Home() {
   }, []);
 
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center px-4 md:px-8 xl:px-10 py-44">
+    <main className="flex min-h-screen flex-col items-center justify-center px-4 md:px-8 xl:px-10 py-20">
+      <header className="w-full text-center mb-16">
+        <h1 className="text-4xl font-bold text-white">
+          Group 3 DR3 Data Visualization Demo
+        </h1>
+      </header>
       <div className="flex flex-col w-full gap-16 max-w-[1400px]">
         <GridItem title="Temperature">
           <TemperatureDifferenceChart data={temperatureData} />
@@ -55,7 +60,7 @@ export default function Home() {
 
 function GridItem({ title, children }) {
   return (
-    <div className="flex flex-col items-center justify-center p-8 border border-slate-900 bg-slate-900/50 rounded-xl w-full max-w-[1200px] mx-auto">
+    <div className="flex flex-col items-center justify-center p-8 border border-slate-900 bg-slate-900/50 rounded-xl w-full max-w-[1200px] mx-auto h-[500px]">
       <h3 className="text-2xl font-semibold text-white mb-4">{title}</h3>
       <div className="w-full h-full">{children}</div>
     </div>
