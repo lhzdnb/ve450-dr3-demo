@@ -58,21 +58,21 @@ const VoltageDifferenceChart = ({ data }) => {
           fillOpacity={0.3}
           fill="#82ca9d"
         />
-        {processedData.map((entry, index) => (
-          <ReferenceArea
-            key={index}
-            x1={index > 0 ? processedData[index - 1].time : entry.time}
-            x2={entry.time}
-            y1={Math.min(entry.actualVoltage, entry.predictedVoltage)}
-            y2={Math.max(entry.actualVoltage, entry.predictedVoltage)}
-            fill={
-              entry.actualVoltage > entry.predictedVoltage
-                ? "rgba(255, 0, 0, 0.3)"
-                : "rgba(0, 255, 0, 0.3)"
-            }
-            ifOverflow="extendDomain"
-          />
-        ))}
+        {/*{processedData.map((entry, index) => (*/}
+        {/*  <ReferenceArea*/}
+        {/*    key={index}*/}
+        {/*    x1={index > 0 ? processedData[index - 1].time : entry.time}*/}
+        {/*    x2={entry.time}*/}
+        {/*    y1={Math.min(entry.actualVoltage, entry.predictedVoltage)}*/}
+        {/*    y2={Math.max(entry.actualVoltage, entry.predictedVoltage)}*/}
+        {/*    fill={*/}
+        {/*      entry.actualVoltage > entry.predictedVoltage*/}
+        {/*        ? "rgba(255, 0, 0, 0.3)"*/}
+        {/*        : "rgba(0, 255, 0, 0.3)"*/}
+        {/*    }*/}
+        {/*    ifOverflow="extendDomain"*/}
+        {/*  />*/}
+        {/*))}*/}
       </AreaChart>
     </ResponsiveContainer>
   );

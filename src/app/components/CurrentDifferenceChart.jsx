@@ -57,21 +57,21 @@ const CurrentDifferenceChart = ({ data }) => {
           fillOpacity={0.3}
           fill="#82ca9d"
         />
-        {processedData.map((entry, index) => (
-          <ReferenceArea
-            key={index}
-            x1={index > 0 ? processedData[index - 1].time : entry.time}
-            x2={entry.time}
-            y1={Math.min(entry.actualCurrent, entry.predictedCurrent)}
-            y2={Math.max(entry.actualCurrent, entry.predictedCurrent)}
-            fill={
-              entry.actualCurrent > entry.predictedCurrent
-                ? "rgba(255, 0, 0, 0.3)"
-                : "rgba(0, 255, 0, 0.3)"
-            }
-            ifOverflow="extendDomain"
-          />
-        ))}
+        {/*{processedData.map((entry, index) => (*/}
+        {/*  <ReferenceArea*/}
+        {/*    key={index}*/}
+        {/*    x1={index > 0 ? processedData[index - 1].time : entry.time}*/}
+        {/*    x2={entry.time}*/}
+        {/*    y1={Math.min(entry.actualCurrent, entry.predictedCurrent)}*/}
+        {/*    y2={Math.max(entry.actualCurrent, entry.predictedCurrent)}*/}
+        {/*    fill={*/}
+        {/*      entry.actualCurrent > entry.predictedCurrent*/}
+        {/*        ? "rgba(255, 0, 0, 0.3)"*/}
+        {/*        : "rgba(0, 255, 0, 0.3)"*/}
+        {/*    }*/}
+        {/*    ifOverflow="extendDomain"*/}
+        {/*  />*/}
+        {/*))}*/}
       </AreaChart>
     </ResponsiveContainer>
   );
